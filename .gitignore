@@ -1,0 +1,9 @@
+.idea
+
+node_modules
+
+dists
+dist
+
+*.lock
+pnpm-lock.yaml
